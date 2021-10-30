@@ -15,3 +15,4 @@ System that is able to record the flow of money from charitable organizatios to 
 - UX/UI Best Practices: https://www.youtube.com/watch?v=Cn2KgB_01mE&list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI&index=12
 - All about website/webapp heirarchy: https://www.youtube.com/watch?v=kOJ4c5THLQk&list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI&index=8
 - Solidity, Blockchain, and Smart Contract Course (This one is very long): https://www.youtube.com/watch?v=M576WGiDBdQ
+- Intro to Remix and Solidity: https://www.youtube.com/watch?v=JWJWT9cwFbo

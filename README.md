@@ -20,3 +20,4 @@ System that is able to record the flow of money from charitable organizatios to 
 - The ABI, a Way to Interact With Smart Contracts Outside the Blockchain: https://docs.soliditylang.org/en/latest/abi-spec.html
 - Events and Logs: https://medium.com/linum-labs/everything-you-ever-wanted-to-know-about-events-and-logs-on-ethereum-fec84ea7d0a5
 - Factory Design Pattern (more about engineering than blockchain): https://en.wikipedia.org/wiki/Factory_method_pattern
+- Example of Managing Contracts with Factories: https://ethereumdev.io/interact-with-other-contracts-from-solidity/

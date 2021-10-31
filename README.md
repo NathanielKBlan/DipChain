@@ -21,6 +21,7 @@ System that is able to record the flow of money from charitable organizatios to 
 - Events and Logs: https://medium.com/linum-labs/everything-you-ever-wanted-to-know-about-events-and-logs-on-ethereum-fec84ea7d0a5
 - Factory Design Pattern (more about engineering than blockchain): https://en.wikipedia.org/wiki/Factory_method_pattern
 - Example of Managing Contracts with Factories: https://ethereumdev.io/interact-with-other-contracts-from-solidity/
+- Oracles (A Way to Fetch Data from the Real World) https://ethereum.org/en/developers/docs/oracles/
 
 ## Team Tools and Software
 - VS Code: https://code.visualstudio.com/

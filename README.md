@@ -18,3 +18,4 @@ System that is able to record the flow of money from charitable organizatios to 
 - Intro to Remix and Solidity: https://www.youtube.com/watch?v=JWJWT9cwFbo
 - Remix IDE documentation: https://remix-ide.readthedocs.io/en/latest/
 - The ABI, a Way to Interact With Smart Contracts Outside the Blockchain: https://docs.soliditylang.org/en/latest/abi-spec.html
+- Events and Logs: https://medium.com/linum-labs/everything-you-ever-wanted-to-know-about-events-and-logs-on-ethereum-fec84ea7d0a5

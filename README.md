@@ -21,3 +21,10 @@ System that is able to record the flow of money from charitable organizatios to 
 - Events and Logs: https://medium.com/linum-labs/everything-you-ever-wanted-to-know-about-events-and-logs-on-ethereum-fec84ea7d0a5
 - Factory Design Pattern (more about engineering than blockchain): https://en.wikipedia.org/wiki/Factory_method_pattern
 - Example of Managing Contracts with Factories: https://ethereumdev.io/interact-with-other-contracts-from-solidity/
+
+## Team Tools and Software
+- VS Code: https://code.visualstudio.com/
+- Solidity for VS Code: https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity
+- Solidity Visual Developer for VS Code: https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor
+- Node: https://nodejs.org/en/
+- Angular: https://angular.io/guide/setup-local
